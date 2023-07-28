@@ -84,7 +84,9 @@ printf()
 $\theta=x^2$ (行内数学表达式)
 
 H~2~O (下角标)
+
 x^2^ (上角标)
+
 ==这是一段高亮==
 
 <iframe src="" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
