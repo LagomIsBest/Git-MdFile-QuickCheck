@@ -1,12 +1,12 @@
 块级元素(至少占据一行)
 行内元素只占据自身所需要的空间
 
-#标题1
-##标题2
-###标题3
-####标题4
-#####标题5
-######标题6
+# 标题1
+## 标题2
+### 标题3
+#### 标题4
+##### 标题5
+###### 标题6
 总共六级标题
 
 >这是一段引用
@@ -36,7 +36,7 @@ int main(){
 
 数学公式:
 $$
-\frac{\partial f}{\partial x} = 2\sqrt{a}x
+\frac { \partial f }{ \partial x } = 2 \sqrt { a } x
 $$
 
 表格:
@@ -60,7 +60,7 @@ $$
 
 [百度](baidu.com "鼠标悬停显示")
 
-[百度][id]   (引用链接，用到多个时便于修改)
+[百度] [id]   (引用链接，用到多个时便于修改)
 [id]: baidu.com
 
 请参考[标题1](#标题1)
@@ -72,14 +72,19 @@ https://www.baidu.com
 括号内也可以用本地的相对地址
 
 *斜体*
+
 **粗体**
+
 printf()
+
 <u>下划线</u>
+
 :smile: :grin: 国际通用表情代码
+
 $\theta=x^2$ (行内数学表达式)
 
-H~2~O
-x^2^
+H~2~O (下角标)
+x^2^ (上角标)
 ==这是一段高亮==
 
 <iframe src="" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
