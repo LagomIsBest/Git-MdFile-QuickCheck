@@ -1,17 +1,17 @@
 
 ##**Git的工作原理**
 >**索引**
-- [Git工作区域](#1)
-- [Git工作区域关系图](#2)
-- [Git中文件的四种状态](#3)
->**<div id = "1">Git工作区域<div>**
+- [Git工作区域](#area)
+- [Git工作区域关系图](#rela)
+- [Git中文件的四种状态](#sta)
+>**<div id = "area">Git工作区域<div>**
 
 - **工作区/工作目录(workspace/working directory)**：就是能在电脑里看到的目录。
 - **暂存区/索引(stage/index)**: 一般存放在 .git 目录下的 index 文件（.git/index）中。
 - **版本库-本地仓库(repository)**：工作区有一个隐藏目录 .git，这个是 Git 的版本库，其中*Head*指向最新放入库的版本。
 - **版本库-远程仓库(remote direcory)**：存储网络上的版本库。类似网盘的作用。如 [github](https://github.com/ "国际的网站") , [gitee/码云](https://gitee.com/ "国内的网站") 等等。
   
->**<div id = "2">Git工作区域关系图<div>**
+>**<div id = "rela">Git工作区域关系图<div>**
 
 <p>
   <img src="img/Git-WorkingPrinciple.png" alt="principle" width="300px">
@@ -24,7 +24,7 @@
   }
 </style>
 
->**<div id = "3">Git中文件的四种状态<div>**
+>**<div id = "sta">Git中文件的四种状态<div>**
 
 - **Untracked**: 未跟踪, 此文件在文件夹中, 但并没有加入到git库, 不参与版本控制. 通过git add 状态变为Staged.
 
