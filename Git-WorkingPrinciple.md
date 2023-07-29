@@ -15,13 +15,6 @@
 
 <p>
   <img src="img/Git-WorkingPrinciple.png" alt="principle" width="300px">
-  <style>
-  img[alt="principle"] {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
- </style>
 </p>
 
 
