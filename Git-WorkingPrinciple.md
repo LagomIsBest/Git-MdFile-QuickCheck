@@ -15,14 +15,15 @@
 
 <p>
   <img src="img/Git-WorkingPrinciple.png" alt="principle" width="300px">
-</p>
-<style>
+  <style>
   img[alt="principle"] {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
-</style>
+ </style>
+</p>
+
 
 >**<div id = "sta">Git中文件的四种状态<div>**
 
