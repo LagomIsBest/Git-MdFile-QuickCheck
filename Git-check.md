@@ -9,7 +9,7 @@
 - [文件的状态及查看](#status)
 - [Git的分支命令](#branch)
 - [忽略文件的语法](#ignore)
-  
+
 >**<div id = "config">Git的基本配置<div>**
 
 **<div id = "config.1">命令代码<div>**
