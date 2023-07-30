@@ -61,6 +61,11 @@ $~~~~$(2) global用户类$~~~$C:\user\administrator\.gitconfig
   git remote -v
   ```
 
+- 修改远程库名称
+  ```bash
+  git remote rename [原名称] [新名称]
+  ```
+
 - 添加远程库
   ```bash
   git remote add [远程库简称] [url地址]
@@ -136,6 +141,11 @@ $~~~~$(2) global用户类$~~~$C:\user\administrator\.gitconfig
   git branch -v
   git branch --show-current
   ```
+- 本地分支重命名
+  ```bash
+  git branch -m [原名称] [新名称]
+  ```
+
 - 列出所有本地分支
 
   ```bash
