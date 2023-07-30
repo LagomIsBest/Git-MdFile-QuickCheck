@@ -40,9 +40,9 @@
   ```
 $~~$ **Git的相关配置文件**
 
-$~~~~$ (1) system系统类$~$Git\etc\gitconfig 
+$~~~~$ (1) system系统类:Git\etc\gitconfig 
 
-$~~~~$ (2) global用户类$~~~$C:\user\administrator\.gitconfig
+$~~~~$ (2) global用户类:C:\user\administrator\.gitconfig
   
 >**<div id = "init">Git项目创建<div>**
 
